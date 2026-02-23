@@ -1981,7 +1981,7 @@ export default function BooksApp({ initialBooks, colleagues: initialColleagues }
           <div className="flex items-center justify-between mb-4">
             <div>
               <h1 className="text-xl sm:text-2xl font-black text-gray-900 tracking-tight">
-                📚 Forge Holidays Library
+                📚 Forge Holiday Group
               </h1>
               <p className="text-xs text-gray-400 mt-0.5">Powered by AI</p>
               <p className="text-xs sm:text-sm text-gray-400">
