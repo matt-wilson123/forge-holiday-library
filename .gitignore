@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build / Next
+.next
+out
+build
+dist
+
+# Env (keep secrets local)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel
+.vercel
+
+# Debug / IDE
+npm-debug.log*
+.DS_Store
+*.pem
